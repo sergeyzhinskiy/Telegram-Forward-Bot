@@ -35,7 +35,7 @@ Automated bot for sending content between Telegram channels with the addition of
 
 
 ## ⚙️ Технические требования
-- Python 3.10+
+- Python 3.8+
 - Telethon 1.34+
 - dotenv
 - Доступ к Telegram API
@@ -185,7 +185,7 @@ signature.txt
 @Russkayamednayakompaniya
 
 Версия: 1.0
-Обновлено: 15.05.2024
+Обновлено: 05.07.2025
 Лицензия: MIT
 
 ==================================
@@ -208,7 +208,7 @@ Automatic removal of links and mentions from forwarded messages
 - **Operation logging**
 Detailed tracking of all actions in the log file
 
-```text
+
 
 ## 💡 Key advantages of the solution
 - **Time saving** - Automation of routine posting
@@ -222,10 +222,10 @@ The project is ideal for:
 - Community managers
 - Affiliate programs
 - Infobusiness projects
-```
+
 
 ## ⚙️ Technical requirements
-- Python 3.10+
+- Python 3.8+
 - Telethon 1.34+
 - dotenv
 - Access to Telegram API
@@ -374,5 +374,5 @@ View the logs in bot.log
 @Russkayamednayakompaniya
 
 Version: 1.0
-Updated: 05/15/2024
+Updated: 07/05/2025
 License: MIT
